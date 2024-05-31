@@ -1,0 +1,10 @@
+{
+    "Basic C++ Program": {
+        "prefix": "leetCodeCppInclude",
+        "body": [
+            "#include <bits/stdc++.h>",
+            "using namespace std;",
+        ],
+        "description": "Creates a leetCode C++ include"
+    }
+}
